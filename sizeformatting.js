@@ -119,3 +119,5 @@ var SizeFormatting = (
             }
             return my;
         }());
+
+module.exports = SizeFormatting;
